@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "Meeting Notes",
+        "description": "Discussion about project milestones and upcoming deadlines. Need to finalize the Q1 roadmap and allocate resources for the new features.",
+        "category": "Work",
+        "createdAt": "2025-01-12T09:00:00Z"
+    },
+    {
+        "id": 2,
+        "title": "Shopping List",
+        "description": "Groceries for the week:\n- Milk\n- Eggs\n- Bread\n- Fruits\n- Vegetables",
+        "category": "Personal",
+        "createdAt": "2025-01-11T18:30:00Z"
+    },
+    {
+        "id": 3,
+        "title": "Project Ideas",
+        "description": "New app concepts:\n1. Fitness tracking social platform\n2. Recipe sharing with AI recommendations\n3. Local event discovery app",
+        "category": "Ideas",
+        "createdAt": "2025-01-10T14:20:00Z"
+    },
+    {
+        "id": 4,
+        "title": "Important Contacts",
+        "description": "Client emails and phone numbers for urgent matters. Remember to follow up with Sarah about the contract renewal.",
+        "category": "Important",
+        "createdAt": "2025-01-09T11:15:00Z"
+    },
+    {
+        "id": 5,
+        "title": "Weekly Goals",
+        "description": "This week's objectives:\n- Complete the React components\n- Write unit tests\n- Deploy to staging\n- Review PRs",
+        "category": "Work",
+        "createdAt": "2025-01-08T08:45:00Z"
+    }
+]
